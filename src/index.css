@@ -1,0 +1,21 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+body{
+  background:#f4f4f4;
+  font-family:Arial, sans-serif;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  min-height:100vh;
+}
+
+.mobile-container{
+  width:375px;
+  height:812px;
+  background:white;
+  position:relative;
+}

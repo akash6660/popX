@@ -1,0 +1,73 @@
+.header{
+    padding:20px;
+    border-bottom:1px solid #eee;
+    font-weight:bold;
+}
+
+.profile-section{
+    display:flex;
+    gap:15px;
+    padding:20px;
+}
+
+.profile-section img{
+    width:70px;
+    height:70px;
+    border-radius:50%;
+}
+
+.description{
+    padding:0 20px;
+    color:#666;
+    line-height:1.6;
+}.header{
+    padding:20px;
+    border-bottom:1px solid #eee;
+    font-size:20px;
+    font-weight:600;
+    background:#fff;
+}
+
+.profile-section{
+    display:flex;
+    gap:15px;
+    padding:20px;
+    align-items:flex-start;
+}
+
+.profile-section img{
+    width:75px;
+    height:75px;
+    border-radius:50%;
+    object-fit:cover;
+}
+
+.user-info h4{
+    margin:0;
+    font-size:18px;
+    font-weight:600;
+}
+
+.user-info p{
+    margin:4px 0;
+    color:#444;
+}
+
+.company-name{
+    color:#6C25FF;
+    font-weight:500;
+}
+
+.agency-status{
+    font-weight:500;
+}
+
+.description{
+    padding:0 20px 20px;
+    line-height:1.7;
+    color:#666;
+}
+.dotted-line{
+    border-bottom:2px dashed #d9d9d9;
+    margin:20px 0;
+}

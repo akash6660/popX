@@ -1,0 +1,36 @@
+.welcome-content{
+    position:absolute;
+    bottom:40px;
+    left:20px;
+    right:20px;
+}
+
+.welcome-content h1{
+    font-size:28px;
+    margin-bottom:10px;
+}
+
+.welcome-content p{
+    color:#666;
+    margin-bottom:20px;
+}
+
+.create-btn{
+    width:100%;
+    background:#6c25ff;
+    color:white;
+    border:none;
+    padding:14px;
+    border-radius:8px;
+    margin-bottom:10px;
+    cursor:pointer;
+}
+
+.login-btn{
+    width:100%;
+    background:#cebafb;
+    border:none;
+    padding:14px;
+    border-radius:8px;
+    cursor:pointer;
+}
